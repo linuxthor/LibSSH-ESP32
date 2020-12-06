@@ -85,7 +85,7 @@
 /* #undef HAVE_OPENSSL_ECDSA_H */
 
 /* Define to 1 if you have the <pthread.h> header file. */
-#define HAVE_PTHREAD_H 1
+#define HAVE_PTHREAD_H 0
 
 /* Define to 1 if you have eliptic curve cryptography in openssl */
 /* #undef HAVE_OPENSSL_ECC */
@@ -236,7 +236,7 @@
 #define HAVE_LIBMBEDCRYPTO 1
 
 /* Define to 1 if you have the `pthread' library (-lpthread). */
-#define HAVE_PTHREAD 1
+#define HAVE_PTHREAD 0
 
 /* Define to 1 if you have the `cmocka' library (-lcmocka). */
 /* #undef HAVE_CMOCKA */
